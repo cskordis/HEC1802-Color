@@ -1,4 +1,4 @@
-# HEC1802
+# HEC1802 - Color
 A redesigned 8 bit computer from the late seventies running CHIP-8.
 
 Originally designed by Hugh Anderson and Graeme Teesdale it was published in kit form for the Australian publication Electronic Today International (ETI), called "A Learner's Microcomputer" issues May - November 1981.
@@ -9,7 +9,7 @@ Since the rarity of the CDP1864, this project is designed around the CDP1861 Pix
   2. The 1861 has a smaller video resolution of 64 x 32 and not the 64 x 48 offered with the 1864.
   3. An increase of logic chips to "glue" the three discrete CDP chips.
 
-This project comprises of 2 versions of the computer, full blown color using the 1862 (1.07) and a B/W mono version without the 1862 (1.06).
+This project comprises of 2 versions of the computer, full blown color version using the 1862 (HEC1802-Color 1.07) and a black and white version without the 1862  (HEC1802-Color 1.06).
 
 
 The software binaries are a collection from Jim Modrouvanos and Marcel van Tongeren and batch converted to Intel Hex and Wav by python scripts.
