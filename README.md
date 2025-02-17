@@ -1,4 +1,4 @@
-# HEC1802 - Color
+# HEC1802c - Color
 A redesigned 8 bit computer from the late seventies running CHIP-8.
 
 Originally designed by Hugh Anderson and Graeme Teesdale it was published in kit form for the Australian publication Electronic Today International (ETI), called "A Learner's Microcomputer" issues May - November 1981.
